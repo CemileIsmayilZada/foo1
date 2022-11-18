@@ -1,0 +1,15 @@
+C:\Users\ClassTime\source\repos\constructorTask\constructorTask\bin\Debug\net6.0\constructorTask.exe
+C:\Users\ClassTime\source\repos\constructorTask\constructorTask\bin\Debug\net6.0\constructorTask.deps.json
+C:\Users\ClassTime\source\repos\constructorTask\constructorTask\bin\Debug\net6.0\constructorTask.runtimeconfig.json
+C:\Users\ClassTime\source\repos\constructorTask\constructorTask\bin\Debug\net6.0\constructorTask.dll
+C:\Users\ClassTime\source\repos\constructorTask\constructorTask\bin\Debug\net6.0\constructorTask.pdb
+C:\Users\ClassTime\source\repos\constructorTask\constructorTask\obj\Debug\net6.0\constructorTask.csproj.AssemblyReference.cache
+C:\Users\ClassTime\source\repos\constructorTask\constructorTask\obj\Debug\net6.0\constructorTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ClassTime\source\repos\constructorTask\constructorTask\obj\Debug\net6.0\constructorTask.AssemblyInfoInputs.cache
+C:\Users\ClassTime\source\repos\constructorTask\constructorTask\obj\Debug\net6.0\constructorTask.AssemblyInfo.cs
+C:\Users\ClassTime\source\repos\constructorTask\constructorTask\obj\Debug\net6.0\constructorTask.csproj.CoreCompileInputs.cache
+C:\Users\ClassTime\source\repos\constructorTask\constructorTask\obj\Debug\net6.0\constructorTask.dll
+C:\Users\ClassTime\source\repos\constructorTask\constructorTask\obj\Debug\net6.0\refint\constructorTask.dll
+C:\Users\ClassTime\source\repos\constructorTask\constructorTask\obj\Debug\net6.0\constructorTask.pdb
+C:\Users\ClassTime\source\repos\constructorTask\constructorTask\obj\Debug\net6.0\constructorTask.genruntimeconfig.cache
+C:\Users\ClassTime\source\repos\constructorTask\constructorTask\obj\Debug\net6.0\ref\constructorTask.dll
